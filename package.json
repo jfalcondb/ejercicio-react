@@ -44,6 +44,7 @@
   "dependencies": {
     "lodash": "4.17.10",
     "prop-types": "15.6.2",
+    "rc-slider": "^8.6.1",
     "react": "16.4.2",
     "react-dom": "16.4.2",
     "react-hot-loader": "4.3.4"
